@@ -5,8 +5,8 @@
       "pengaturan_iklan" : "1",
       "interval_intertitial": 1,
       
-      "intertitial_admob":"",
-      "native_admob":"",
+      "intertitial_admob":"ca-app-pub-7556356741072836/9101772895",
+      "native_admob":"ca-app-pub-7556356741072836/9760248445",
      
       "status":"0",
       "link_redirect":"https://play.google.com/store/apps/details?id=",
