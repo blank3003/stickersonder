@@ -32,7 +32,7 @@
     {
       "id": "1",
       "name": "Encanto 1",
-      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/1/",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/Stickers1/",
       "image_cover": "main.png",
       "stickers": [
         {
@@ -59,7 +59,7 @@
     },{
       "id": "2",
       "name": "Encanto 2",
-      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/2/",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/Stickers2/",
       "image_cover": "main.png",
       "stickers": [
         {
@@ -87,7 +87,7 @@
     ,{
       "id": "3",
       "name": "Encanto 3",
-      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/3/",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/Stickers3/",
       "image_cover": "main.png",
       "stickers": [
         {
@@ -115,7 +115,7 @@
     {
       "id": "4",
       "name": "Encanto 4",
-      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/4/",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/Stickers4/",
       "image_cover": "main.png",
       "stickers": [
         {
@@ -143,7 +143,7 @@
     {
       "id": "5",
       "name": "Encanto 5",
-      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/5/",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/Stickers5/",
       "image_cover": "main.png",
       "stickers": [
         {
@@ -171,7 +171,7 @@
     {
       "id": "6",
       "name": "Encanto 6",
-      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/6/",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/Stickers6/",
       "image_cover": "main.png",
       "stickers": [
         {
@@ -199,7 +199,7 @@
     {
       "id": "7",
       "name": "Encanto 7",
-      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/7/",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/Stickers7/",
       "image_cover": "main.png",
       "stickers": [
        {
