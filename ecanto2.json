@@ -1,8 +1,8 @@
 {
   "Ads": [
   {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
+      "select_main_ads": "IRONSOURCE",
+      "select_backup_ads":"IRONSOURCE",
       "main_ads_banner": "ca-app-pub-6164547743114735/1240604875",
       "main_ads_intertitial":"ca-app-pub-6164547743114735/4877146298",
       "main_ads_reward":"ca-app-pub-6164547743114735/8544379826",
@@ -11,7 +11,7 @@
       "backup_ads_intertitial":"",
       "backup_ads_reward":"",
       "interval_intertitial": 1,
-      "initialize_sdk":"",
+      "initialize_sdk":"14b3aa861",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
