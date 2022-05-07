@@ -1,0 +1,404 @@
+{
+  "Ads": [
+  {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/63main978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_reward":"",
+      "native_ads_for_admob_or_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_reward":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "mode_promo":"",  
+      "icon_promo":"",
+      "title_promo":"",
+      "description-promo":"",
+      "install_promo":""
+   
+
+  }
+  ],"sticker_packs": [
+    {
+      "id": "1",
+      "name": "xxxtentacion 1",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/xxxtentacion/assets/1/",
+      "image_cover": "xxxtentacion1tray.png",
+      "stickers": [
+       {
+          "image_file": "xxxtentacion1.webp"
+        },
+        {
+          "image_file": "xxxtentacion2.webp"
+        },
+        {
+          "image_file": "xxxtentacion3.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion4.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion5.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion6.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion7.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion8.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion9.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion10.webp"
+        }
+		
+        
+      ]
+    },{
+      "id": "2",
+      "name": "xxxtentacion 2",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/xxxtentacion/assets/2/",
+      "image_cover": "xxxtentacion24tray.png",
+           "stickers": [
+        {
+          "image_file": "xxxtentacion21.webp"
+        },
+        {
+          "image_file": "xxxtentacion22.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion23.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion24.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion25.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion26.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion27.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion28.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion29.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion30.webp"
+        }
+		
+        
+      ]
+    }
+    ,{
+      "id": "3",
+      "name": "xxxtentacion 3",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/xxxtentacion/assets/3/",
+      "image_cover": "xxxtentacion46tray.png",
+           "stickers": [
+        {
+          "image_file": "xxxtentacion41.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion42.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion43.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion44.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion45.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion46.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion47.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion48.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion49.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion50.webp"
+        }
+		
+        
+      ]
+    },
+    {
+      "id": "4",
+      "name": "xxxtentacion 4",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/xxxtentacion/assets/4/",
+      "image_cover": "xxxtentacion63tray.png",
+           "stickers": [
+        
+        {
+          "image_file": "xxxtentacion62.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion63.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion64.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion65.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion66.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion67.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion68.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion69.webp"
+        }
+
+        
+      ]
+    },
+    {
+      "id": "5",
+      "name": "xxxtentacion 5",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/xxxtentacion/assets/5/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "xxxtentacion70.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion71.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion72.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion73.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion74.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion75.webp"
+        }
+		,
+		{
+          "image_file": "xxxtentacion76.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion77.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion78.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion79.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion80.webp"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "xxxtentacion 6",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/xxxtentacion/assets/6/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "xxxtentacion51.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion52.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion53.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion54.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion55.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion56.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion57.webp"
+        },
+        {
+          "image_file": "xxxtentacion58.webp"
+        },
+        {
+          "image_file": "xxxtentacion59.webp"
+        },
+        {
+          "image_file": "xxxtentacion60.webp"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "xxxtentacion 7",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/xxxtentacion/assets/7/",
+      "image_cover": "main.png",
+      "stickers": [
+       {
+          "image_file": "xxxtentacion31.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion32.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion33.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion34.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion35.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion36.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion37.webp"
+        },
+        {
+          "image_file": "xxxtentacion38.webp"
+        },
+        {
+          "image_file": "xxxtentacion39.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion40.webp"
+        }
+      ]
+    },
+	{
+      "id": "8",
+      "name": "xxxtentacion 8",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/xxxtentacion/assets/8/",
+      "image_cover": "main.png",
+           "stickers": [
+		   {
+          "image_file": "xxxtentacion11.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion12.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion13.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion14.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion15.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion16.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion17.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion18.webp"
+        },
+        {
+          "image_file": "xxxtentacion19.webp"
+        }
+		,
+        {
+          "image_file": "xxxtentacion20.webp"
+        }
+		]
+    }
+  ]
+}
