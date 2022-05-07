@@ -3,7 +3,7 @@
   {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_banner": "ca-app-pub-3940256099942544/63main978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_reward":"",
       "native_ads_for_admob_or_applovin":"",
@@ -32,8 +32,8 @@
     {
       "id": "1",
       "name": "Encanto 1",
-      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/10/",
-      "image_cover": "00.png",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/1/",
+      "image_cover": "main.png",
       "stickers": [
         {
           "image_file": "1.webp"
@@ -59,8 +59,8 @@
     },{
       "id": "2",
       "name": "Encanto 2",
-      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/20/",
-      "image_cover": "00.png",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/2/",
+      "image_cover": "main.png",
       "stickers": [
         {
           "image_file": "6.webp"
@@ -87,8 +87,8 @@
     ,{
       "id": "3",
       "name": "Encanto 3",
-      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/30/",
-      "image_cover": "00.png",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/3/",
+      "image_cover": "main.png",
       "stickers": [
         {
           "image_file": "6.webp"
@@ -115,8 +115,8 @@
     {
       "id": "4",
       "name": "Encanto 4",
-      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/40/",
-      "image_cover": "00.png",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/4/",
+      "image_cover": "main.png",
       "stickers": [
         {
           "image_file": "1.webp"
@@ -143,8 +143,8 @@
     {
       "id": "5",
       "name": "Encanto 5",
-      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/40/",
-      "image_cover": "00.png",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/5/",
+      "image_cover": "main.png",
       "stickers": [
         {
           "image_file": "1.webp"
@@ -171,8 +171,8 @@
     {
       "id": "6",
       "name": "Encanto 6",
-      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/40/",
-      "image_cover": "00.png",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/6/",
+      "image_cover": "main.png",
       "stickers": [
         {
           "image_file": "1.webp"
@@ -199,8 +199,8 @@
     {
       "id": "7",
       "name": "Encanto 7",
-      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/40/",
-      "image_cover": "00.png",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/encanto/assets/7/",
+      "image_cover": "main.png",
       "stickers": [
        {
           "image_file": "1.webp"
