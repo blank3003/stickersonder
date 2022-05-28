@@ -1,0 +1,364 @@
+{
+  "Ads": [
+  {
+      "select_main_ads": "IRON",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_reward":"",
+      "native_ads_for_admob_or_applovin":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_reward":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"14fc2b8b1",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "mode_promo":"",  
+      "icon_promo":"",
+      "title_promo":"",
+      "description-promo":"",
+      "install_promo":""
+   
+
+  }
+  ],"sticker_packs": [
+    {
+      "id": "1",
+      "name": "Lucas 1",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Lucas/assets/1/",
+      "image_cover": "main.png",
+      "stickers": [
+       {
+          "image_file": "luccasneto1.webp"
+        },
+        {
+          "image_file": "luccasneto2.webp"
+        },
+        {
+          "image_file": "luccasneto3.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto4.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto5.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto6.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto7.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto8.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto9.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto10.webp"
+        }
+      ]
+    },{
+      "id": "2",
+      "name": "Lucas 2",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Lucas/assets/2/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "luccasneto11.webp"
+        },
+        {
+          "image_file": "luccasneto12.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto13.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto14.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto15.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto16.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto17.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto18.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto19.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto20.webp"
+        }
+      ]
+    }
+    ,{
+      "id": "3",
+      "name": "Lucas 3",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Lucas/assets/3/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "luccasneto21.webp"
+        },
+        {
+          "image_file": "luccasneto22.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto23.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto24.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto25.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto26.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto27.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto28.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto29.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto30.webp"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Lucas 4",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Lucas/assets/4/",
+      "image_cover": "main.png",
+      "stickers": [
+       {
+          "image_file": "luccasneto31.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto32.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto33.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto34.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto35.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto36.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto37.webp"
+        },
+        {
+          "image_file": "luccasneto38.webp"
+        },
+        {
+          "image_file": "luccasneto39.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto40.webp"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Lucas 5",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Lucas/assets/5/",
+      "image_cover": "main.png",
+      "stickers": [
+       {
+          "image_file": "luccasneto41.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto42.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto43.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto44.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto45.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto46.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto47.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto48.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto49.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto50.webp"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Lucas 6",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Lucas/assets/6/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "luccasneto52.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto53.webp"
+        }
+		,
+        {
+          "image_file": "luccasneto54.webp"
+        },
+		{"image_file": "1.webp"},
+        {"image_file": "2.webp"},
+        {"image_file": "3.webp"},
+        {"image_file": "4.webp"},
+        {"image_file": "5.webp"},
+        {"image_file": "6.webp"},
+        {"image_file": "7.webp"},
+        {"image_file": "8.webp"},
+        {"image_file": "9.webp"},
+        {"image_file": "10.webp"}
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Lucas 7",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Lucas/assets/7/",
+      "image_cover": "main.png",
+      "stickers": [
+        {"image_file": "1.webp"},
+        {"image_file": "2.webp"},
+        {"image_file": "3.webp"},
+        {"image_file": "4.webp"},
+        {"image_file": "5.webp"},
+        {"image_file": "6.webp"},
+        {"image_file": "7.webp"},
+        {"image_file": "8.webp"},
+        {"image_file": "9.webp"},
+        {"image_file": "10.webp"}
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Lucas 8",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Lucas/assets/8/",
+      "image_cover": "main.png",
+      "stickers": [
+       {"image_file": "1.webp"},
+        {"image_file": "2.webp"},
+        {"image_file": "3.webp"},
+        {"image_file": "4.webp"},
+        {"image_file": "5.webp"},
+        {"image_file": "6.webp"},
+        {"image_file": "7.webp"},
+        {"image_file": "8.webp"},
+        {"image_file": "9.webp"},
+        {"image_file": "10.webp"}
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Lucas 9",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Lucas/assets/9/",
+      "image_cover": "main.png",
+      "stickers": [
+        {"image_file": "1.webp"},
+        {"image_file": "2.webp"},
+        {"image_file": "3.webp"},
+        {"image_file": "4.webp"},
+        {"image_file": "5.webp"},
+        {"image_file": "6.webp"},
+        {"image_file": "7.webp"},
+        {"image_file": "8.webp"},
+        {"image_file": "9.webp"},
+        {"image_file": "10.webp"}
+      ]
+
+    },
+    {
+      "id": "10",
+      "name": "Lucas 10",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Lucas/assets/10/",
+      "image_cover": "main.png",
+      "stickers": [
+        {"image_file": "1.webp"},
+        {"image_file": "2.webp"},
+        {"image_file": "3.webp"},
+        {"image_file": "4.webp"},
+        {"image_file": "5.webp"},
+        {"image_file": "6.webp"},
+        {"image_file": "7.webp"},
+        {"image_file": "8.webp"},
+        {"image_file": "9.webp"},
+        {"image_file": "10.webp"}
+      ]
+
+    } 
+  ]
+}
