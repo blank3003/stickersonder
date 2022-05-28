@@ -1,28 +1,938 @@
 {
-  
-"Iklan": [
-    {
-      "pengaturan_iklan" : "1",
+  "Ads": [
+  {
+      "select_main_ads": "IRON",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_reward":"",
+      "native_ads_for_admob_or_applovin":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_reward":"",
       "interval_intertitial": 1,
-      
-      "intertitial_admob":"ca-app-pub-7556356741072836/8498271698",
-      "native_admob":"ca-app-pub-7556356741072836/5872108358",
-     
-      "status":"0",
-      "link_redirect":"https://play.google.com/store/apps/details?id=com.indolimo.btskeyboardtheme&hl=en",
+      "initialize_sdk":"14b3aa861",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "mode_promo":"",  
+      "icon_promo":"",
+      "title_promo":"",
+      "description-promo":"",
+      "install_promo":""
+   
 
-      "deskripsi_update":"Please update the application to the latest version to get additional features.",
-      "version_json": 0,
-      
-      "startappid":"",
-    
-
-      "fan_inter":"",
-      "fan_banner_native":"",
-
-      "more_app":"https://play.google.com/store/apps/developer?id=Saunder+Skaper",
-       "hpk":"mesothelioma claims process,motorcycle personal injury lawyer,motorcycle accident attorney san diego,truck accident attorney san antonio,dallas truck accident lawyer,mesothelioma lawyer directory,injury atty,colorado springs car accident attorney,sokolove law mesothelioma,auto accident lawyers in houston,best mesothelioma law firms,wealth,health,insurance,forex,gold,movie,disney,real estate,stock,stock market,loans,trading,makeup,fitness,nutrition,banking,vpn,investing,invest,finance,gas,electricity,mortgage,donate,degree,credit,treatment,software,classes,recovery,rehab,hosting,transfer,claim,bitcoin,crypto"
-
+  }
+  ],"sticker_packs": [
+    {
+      "id": "1",
+      "name": "Totoro 1",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Totoro/assets/1/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "Totoro_1.webp"
+        },
+        {
+          "image_file": "Totoro_2.webp"
+        },
+        {
+          "image_file": "Totoro_3.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_4.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_5.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_6.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_7.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_8.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_9.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_10.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_11.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_12.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_13.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_14.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_15.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_16.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_17.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_18.webp"
+        },
+        {
+          "image_file": "Totoro_19.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_20.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_21.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_22.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_23.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_24.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_25.webp"
+        },
+        {
+          "image_file": "Totoro_26.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_27.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_28.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_29.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_30.webp"
+        }
+      ]
+    },{
+      "id": "2",
+      "name": "Totoro 2",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Totoro/assets/2/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "Totoro_31.webp"
+        },
+        {
+          "image_file": "Totoro_32.webp"
+        },
+        {
+          "image_file": "Totoro_33.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_34.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_35.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_36.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_37.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_38.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_39.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_40.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_41.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_42.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_43.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_44.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_45.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_46.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_47.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_48.webp"
+        },
+        {
+          "image_file": "Totoro_49.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_50.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_51.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_52.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_53.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_54.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_55.webp"
+        },
+        {
+          "image_file": "Totoro_56.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_57.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_58.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_59.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_60.webp"
+        }
+      ]
     }
+    ,{
+      "id": "3",
+      "name": "Totoro 3",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Totoro/assets/3/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "Totoro_61.webp"
+        },
+        {
+          "image_file": "Totoro_62.webp"
+        },
+        {
+          "image_file": "Totoro_63.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_64.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_65.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_66.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_67.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_68.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_69.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_70.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_71.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_72.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_73.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_74.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_75.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_76.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_77.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_78.webp"
+        },
+        {
+          "image_file": "Totoro_79.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_80.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_81.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_82.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_83.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_84.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_85.webp"
+        },
+        {
+          "image_file": "Totoro_86.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_87.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_88.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_89.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_90.webp"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Totoro 4",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Totoro/assets/4/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "Totoro_91.webp"
+        },
+        {
+          "image_file": "Totoro_92.webp"
+        },
+        {
+          "image_file": "Totoro_93.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_94.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_95.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_96.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_97.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_98.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_99.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_100.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_101.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_102.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_103.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_104.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_105.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_106.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_107.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_108.webp"
+        },
+        {
+          "image_file": "Totoro_109.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_110.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_111.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_112.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_113.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_114.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_115.webp"
+        },
+        {
+          "image_file": "Totoro_116.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_117.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_118.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_119.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_120.webp"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Totoro 5",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Totoro/assets/5/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "Totoro_121.webp"
+        },
+        {
+          "image_file": "Totoro_122.webp"
+        },
+        {
+          "image_file": "Totoro_123.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_124.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_125.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_126.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_127.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_128.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_129.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_130.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_131.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_132.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_133.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_134.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_135.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_136.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_137.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_138.webp"
+        },
+        {
+          "image_file": "Totoro_139.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_140.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_141.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_142.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_143.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_144.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_145.webp"
+        },
+        {
+          "image_file": "Totoro_146.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_147.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_148.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_149.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_150.webp"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Totoro 6",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Totoro/assets/6/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "Totoro_151.webp"
+        },
+        {
+          "image_file": "Totoro_152.webp"
+        },
+        {
+          "image_file": "Totoro_153.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_154.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_155.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_156.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_157.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_158.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_159.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_160.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_161.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_162.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_163.webp"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Totoro 7",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Totoro/assets/7/",
+      "image_cover": "main.png",
+      "stickers": [
+       {
+          "image_file": "Totoro_181.webp"
+        },
+        {
+          "image_file": "Totoro_182.webp"
+        },
+        {
+          "image_file": "Totoro_183.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_184.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_185.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_186.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_187.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_188.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_189.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_190.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_191.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_192.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_193.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_194.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_195.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_196.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_197.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_198.webp"
+        },
+        {
+          "image_file": "Totoro_199.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_200.webp"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Totoro 8",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Totoro/assets/8/",
+      "image_cover": "main.png",
+      "stickers": [
+       {
+          "image_file": "Totoro_211.webp"
+        },
+        {
+          "image_file": "Totoro_212.webp"
+        },
+        {
+          "image_file": "Totoro_213.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_214.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_215.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_216.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_217.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_218.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_219.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_220.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_221.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_222.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_223.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_224.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_225.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_226.webp"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Totoro 9",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/Totoro/assets/9/",
+      "image_cover": "main.png",
+      "stickers": [
+       {
+          "image_file": "Totoro_241.webp"
+        },
+        {
+          "image_file": "Totoro_242.webp"
+        },
+        {
+          "image_file": "Totoro_243.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_244.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_245.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_246.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_247.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_248.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_249.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_250.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_251.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_252.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_253.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_254.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_255.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_256.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_257.webp"
+        }
+        ,
+        {
+          "image_file": "Totoro_258.webp"
+        },
+        {
+          "image_file": "Totoro_259.webp"
+        }
+      ]
+
+    } 
   ]
 }
