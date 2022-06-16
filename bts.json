@@ -1,0 +1,1245 @@
+{
+  "Ads": [
+  {
+      "select_main_ads": "IRON",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_reward":"",
+      "native_ads_for_admob_or_applovin":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_reward":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"14fc2b8b1",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "mode_promo":"",  
+      "icon_promo":"",
+      "title_promo":"",
+      "description-promo":"",
+      "install_promo":""
+   
+
+  }
+  ],"sticker_packs": [
+    {
+      "id": "1",
+      "name": "BTS 1",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/BTS/assets/1/",
+      "image_cover": "main.png",
+      "stickers": [
+      {
+          "image_file": "bts1.webp"
+        },
+        {
+          "image_file": "bts2.webp"
+        },
+        {
+          "image_file": "bts3.webp"
+        }
+        ,
+        {
+          "image_file": "bts4.webp"
+        }
+        ,
+        {
+          "image_file": "bts5.webp"
+        }
+        ,
+        {
+          "image_file": "bts6.webp"
+        }
+        ,
+        {
+          "image_file": "bts7.webp"
+        }
+        ,
+        {
+          "image_file": "bts8.webp"
+        }
+        ,
+        {
+          "image_file": "bts9.webp"
+        }
+        ,
+        {
+          "image_file": "bts10.webp"
+        }
+        ,
+        {
+          "image_file": "bts11.webp"
+        }
+        ,
+        {
+          "image_file": "bts12.webp"
+        }
+        ,
+        {
+          "image_file": "bts13.webp"
+        }
+        ,
+        {
+          "image_file": "bts14.webp"
+        }
+        ,
+        {
+          "image_file": "bts15.webp"
+        }
+        ,
+        {
+          "image_file": "bts16.webp"
+        }
+        ,
+        {
+          "image_file": "bts17.webp"
+        }
+        ,
+        {
+          "image_file": "bts18.webp"
+        },
+        {
+          "image_file": "bts19.webp"
+        }
+        ,
+        {
+          "image_file": "bts20.webp"
+        }
+        ,
+        {
+          "image_file": "bts21.webp"
+        }
+        ,
+        {
+          "image_file": "bts22.webp"
+        }
+        ,
+        {
+          "image_file": "bts23.webp"
+        }
+        ,
+        {
+          "image_file": "bts24.webp"
+        }
+        ,
+        {
+          "image_file": "bts25.webp"
+        }
+      ]
+    },{
+      "id": "2",
+      "name": "BTS 2",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/BTS/assets/2/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "bts31.webp"
+        },
+        {
+          "image_file": "bts32.webp"
+        },
+        {
+          "image_file": "bts33.webp"
+        }
+        ,
+        {
+          "image_file": "bts34.webp"
+        }
+        ,
+        {
+          "image_file": "bts35.webp"
+        }
+        ,
+        {
+          "image_file": "bts36.webp"
+        }
+        ,
+        {
+          "image_file": "bts37.webp"
+        }
+        ,
+        {
+          "image_file": "bts38.webp"
+        }
+        ,
+        {
+          "image_file": "bts39.webp"
+        }
+        ,
+        {
+          "image_file": "bts40.webp"
+        }
+        ,
+        {
+          "image_file": "bts41.webp"
+        }
+        ,
+        {
+          "image_file": "bts42.webp"
+        }
+        ,
+        {
+          "image_file": "bts43.webp"
+        }
+        ,
+        {
+          "image_file": "bts44.webp"
+        }
+        ,
+        {
+          "image_file": "bts45.webp"
+        }
+        ,
+        {
+          "image_file": "bts46.webp"
+        }
+        ,
+        {
+          "image_file": "bts47.webp"
+        }
+        ,
+        {
+          "image_file": "bts48.webp"
+        },
+        {
+          "image_file": "bts49.webp"
+        }
+        ,
+        {
+          "image_file": "bts50.webp"
+        }
+        ,
+        {
+          "image_file": "bts51.webp"
+        }
+        ,
+        {
+          "image_file": "bts52.webp"
+        }
+        ,
+        {
+          "image_file": "bts53.webp"
+        }
+        ,
+        {
+          "image_file": "bts54.webp"
+        }
+        ,
+        {
+          "image_file": "bts55.webp"
+        },
+        {
+          "image_file": "bts56.webp"
+        }
+        ,
+        {
+          "image_file": "bts57.webp"
+        }
+      ]
+    }
+    ,{
+      "id": "3",
+      "name": "BTS 3",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/BTS/assets/3/",
+      "image_cover": "main.png",
+      "stickers": [
+         {
+          "image_file": "bts61.webp"
+        },
+        {
+          "image_file": "bts62.webp"
+        },
+        {
+          "image_file": "bts63.webp"
+        }
+        ,
+        {
+          "image_file": "bts64.webp"
+        }
+        ,
+        {
+          "image_file": "bts65.webp"
+        }
+        ,
+        {
+          "image_file": "bts66.webp"
+        }
+        ,
+        {
+          "image_file": "bts67.webp"
+        }
+        ,
+        {
+          "image_file": "bts68.webp"
+        }
+        ,
+        {
+          "image_file": "bts69.webp"
+        }
+        ,
+        {
+          "image_file": "bts70.webp"
+        }
+        ,
+        {
+          "image_file": "bts71.webp"
+        }
+        ,
+        {
+          "image_file": "bts72.webp"
+        }
+        ,
+        {
+          "image_file": "bts73.webp"
+        }
+        ,
+        {
+          "image_file": "bts74.webp"
+        }
+        ,
+        {
+          "image_file": "bts75.webp"
+        }
+        ,
+        {
+          "image_file": "bts76.webp"
+        }
+        ,
+        {
+          "image_file": "bts77.webp"
+        }
+        ,
+        {
+          "image_file": "bts78.webp"
+        },
+        {
+          "image_file": "bts79.webp"
+        }
+        ,
+        {
+          "image_file": "bts80.webp"
+        }
+        ,
+        {
+          "image_file": "bts81.webp"
+        }
+        ,
+        {
+          "image_file": "bts82.webp"
+        }
+        ,
+        {
+          "image_file": "bts83.webp"
+        }
+        ,
+        {
+          "image_file": "bts84.webp"
+        }
+        ,
+        {
+          "image_file": "bts85.webp"
+        },
+        {
+          "image_file": "bts86.webp"
+        }
+        ,
+        {
+          "image_file": "bts87.webp"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "BTS 4",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/BTS/assets/4/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "bts91.webp"
+        },
+        {
+          "image_file": "bts92.webp"
+        },
+        {
+          "image_file": "bts93.webp"
+        }
+        ,
+        {
+          "image_file": "bts94.webp"
+        }
+        ,
+        {
+          "image_file": "bts95.webp"
+        }
+        ,
+        {
+          "image_file": "bts96.webp"
+        }
+        ,
+        {
+          "image_file": "bts97.webp"
+        }
+        ,
+        {
+          "image_file": "bts98.webp"
+        }
+        ,
+        {
+          "image_file": "bts99.webp"
+        }
+        ,
+        {
+          "image_file": "bts100.webp"
+        }
+        ,
+        {
+          "image_file": "bts101.webp"
+        }
+        ,
+        {
+          "image_file": "bts102.webp"
+        }
+        ,
+        {
+          "image_file": "bts103.webp"
+        }
+        ,
+        {
+          "image_file": "bts104.webp"
+        }
+        ,
+        {
+          "image_file": "bts105.webp"
+        }
+        ,
+        {
+          "image_file": "bts106.webp"
+        }
+        ,
+        {
+          "image_file": "bts107.webp"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "BTS 5",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/BTS/assets/5/",
+      "image_cover": "main.png",
+      "stickers": [
+       {
+       {
+          "image_file": "bts121.webp"
+        },
+        {
+          "image_file": "bts122.webp"
+        },
+        {
+          "image_file": "bts123.webp"
+        }
+        ,
+        {
+          "image_file": "bts124.webp"
+        }
+        ,
+        {
+          "image_file": "bts125.webp"
+        }
+        ,
+        {
+          "image_file": "bts126.webp"
+        }
+        ,
+        {
+          "image_file": "bts127.webp"
+        }
+        ,
+        {
+          "image_file": "bts128.webp"
+        }
+        ,
+        {
+          "image_file": "bts129.webp"
+        }
+        ,
+        {
+          "image_file": "bts130.webp"
+        }
+        ,
+        {
+          "image_file": "bts131.webp"
+        }
+        ,
+        {
+          "image_file": "bts132.webp"
+        }
+        ,
+        {
+          "image_file": "bts133.webp"
+        }
+        ,
+        {
+          "image_file": "bts134.webp"
+        }
+        ,
+        {
+          "image_file": "bts135.webp"
+        }
+        ,
+        {
+          "image_file": "bts136.webp"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "BTS 6",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/BTS/assets/6/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "bts151.webp"
+        },
+        {
+          "image_file": "bts152.webp"
+        },
+        {
+          "image_file": "bts153.webp"
+        }
+        ,
+        {
+          "image_file": "bts154.webp"
+        }
+        ,
+        {
+          "image_file": "bts155.webp"
+        }
+        ,
+        {
+          "image_file": "bts156.webp"
+        }
+        ,
+        {
+          "image_file": "bts157.webp"
+        }
+        ,
+        {
+          "image_file": "bts158.webp"
+        }
+        ,
+        {
+          "image_file": "bts159.webp"
+        }
+        ,
+        {
+          "image_file": "bts160.webp"
+        }
+        ,
+        {
+          "image_file": "bts161.webp"
+        }
+        ,
+        {
+          "image_file": "bts162.webp"
+        }
+        ,
+        {
+          "image_file": "bts163.webp"
+        }
+        ,
+        {
+          "image_file": "bts164.webp"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "BTS 7",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/BTS/assets/7/",
+      "image_cover": "main.png",
+      "stickers": [
+       {
+          "image_file": "bts181.webp"
+        },
+        {
+          "image_file": "bts182.webp"
+        },
+        {
+          "image_file": "bts183.webp"
+        }
+        ,
+        {
+          "image_file": "bts184.webp"
+        }
+        ,
+        {
+          "image_file": "bts185.webp"
+        }
+        ,
+        {
+          "image_file": "bts186.webp"
+        }
+        ,
+        {
+          "image_file": "bts187.webp"
+        }
+        ,
+        {
+          "image_file": "bts188.webp"
+        }
+        ,
+        {
+          "image_file": "bts189.webp"
+        }
+        ,
+        {
+          "image_file": "bts190.webp"
+        }
+        ,
+        {
+          "image_file": "bts191.webp"
+        }
+        ,
+        {
+          "image_file": "bts192.webp"
+        }
+        ,
+        {
+          "image_file": "bts193.webp"
+        }
+        ,
+        {
+          "image_file": "bts194.webp"
+        }
+        ,
+        {
+          "image_file": "bts195.webp"
+        }
+        ,
+        {
+          "image_file": "bts196.webp"
+        }
+        ,
+        {
+          "image_file": "bts197.webp"
+        }
+        ,
+        {
+          "image_file": "bts198.webp"
+        },
+        {
+          "image_file": "bts199.webp"
+        }
+        ,
+        {
+          "image_file": "bts200.webp"
+        }
+        ,
+        {
+          "image_file": "bts201.webp"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "BTS 8",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/BTS/assets/8/",
+      "image_cover": "main.png",
+      "stickers": [
+       {
+          "image_file": "bts211.webp"
+        },
+        {
+          "image_file": "bts212.webp"
+        },
+        {
+          "image_file": "bts213.webp"
+        }
+        ,
+        {
+          "image_file": "bts214.webp"
+        }
+        ,
+        {
+          "image_file": "bts215.webp"
+        }
+        ,
+        {
+          "image_file": "bts216.webp"
+        }
+        ,
+        {
+          "image_file": "bts217.webp"
+        }
+        ,
+        {
+          "image_file": "bts218.webp"
+        }
+        ,
+        {
+          "image_file": "bts219.webp"
+        }
+        ,
+        {
+          "image_file": "bts220.webp"
+        }
+        ,
+        {
+          "image_file": "bts221.webp"
+        }
+        ,
+        {
+          "image_file": "bts222.webp"
+        }
+        ,
+        {
+          "image_file": "bts223.webp"
+        }
+        ,
+        {
+          "image_file": "bts224.webp"
+        }
+        ,
+        {
+          "image_file": "bts225.webp"
+        }
+        ,
+        {
+          "image_file": "bts226.webp"
+        }
+        ,
+        {
+          "image_file": "bts227.webp"
+        }
+        ,
+        {
+          "image_file": "bts228.webp"
+        },
+        {
+          "image_file": "bts229.webp"
+        }
+        ,
+        {
+          "image_file": "bts230.webp"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "BTS 9",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/BTS/assets/9/",
+      "image_cover": "main.png",
+      "stickers": [
+         {
+          "image_file": "bts241.webp"
+        },
+        {
+          "image_file": "bts242.webp"
+        },
+        {
+          "image_file": "bts243.webp"
+        }
+        ,
+        {
+          "image_file": "bts244.webp"
+        }
+        ,
+        {
+          "image_file": "bts245.webp"
+        }
+        ,
+        {
+          "image_file": "bts246.webp"
+        }
+        ,
+        {
+          "image_file": "bts247.webp"
+        }
+        ,
+        {
+          "image_file": "bts248.webp"
+        }
+        ,
+        {
+          "image_file": "bts249.webp"
+        }
+        ,
+        {
+          "image_file": "bts250.webp"
+        }
+        ,
+        {
+          "image_file": "bts251.webp"
+        }
+        ,
+        {
+          "image_file": "bts252.webp"
+        }
+        ,
+        {
+          "image_file": "bts253.webp"
+        }
+        ,
+        {
+          "image_file": "bts254.webp"
+        }
+        ,
+        {
+          "image_file": "bts255.webp"
+        }
+        ,
+        {
+          "image_file": "bts256.webp"
+        }
+        ,
+        {
+          "image_file": "bts257.webp"
+        }
+        ,
+        {
+          "image_file": "bts258.webp"
+        },
+        {
+          "image_file": "bts259.webp"
+        }
+        ,
+        {
+          "image_file": "bts260.webp"
+        }
+        ,
+        {
+          "image_file": "bts261.webp"
+        }
+        ,
+        {
+          "image_file": "bts262.webp"
+        }
+        ,
+        {
+          "image_file": "bts263.webp"
+        }
+        ,
+        {
+          "image_file": "bts264.webp"
+        }
+        ,
+        {
+          "image_file": "bts265.webp"
+        }
+      ]
+
+    },
+    {
+      "id": "10",
+      "name": "BTS 10",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/BTS/assets/10/",
+      "image_cover": "main.png",
+      "stickers": [
+          {
+          "image_file": "bts271.webp"
+        },
+        {
+          "image_file": "bts272.webp"
+        },
+        {
+          "image_file": "bts273.webp"
+        }
+        ,
+        {
+          "image_file": "bts274.webp"
+        }
+        ,
+        {
+          "image_file": "bts275.webp"
+        }
+        ,
+        {
+          "image_file": "bts276.webp"
+        }
+        ,
+        {
+          "image_file": "bts277.webp"
+        }
+        ,
+        {
+          "image_file": "bts278.webp"
+        }
+        ,
+        {
+          "image_file": "bts279.webp"
+        }
+        ,
+        {
+          "image_file": "bts280.webp"
+        }
+        ,
+        {
+          "image_file": "bts281.webp"
+        }
+        ,
+        {
+          "image_file": "bts282.webp"
+        }
+        ,
+        {
+          "image_file": "bts283.webp"
+        }
+        ,
+        {
+          "image_file": "bts284.webp"
+        }
+        ,
+        {
+          "image_file": "bts285.webp"
+        }
+        ,
+        {
+          "image_file": "bts286.webp"
+        }
+        ,
+        {
+          "image_file": "bts287.webp"
+        }
+        ,
+        {
+          "image_file": "bts288.webp"
+        },
+        {
+          "image_file": "bts289.webp"
+        }
+        ,
+        {
+          "image_file": "bts290.webp"
+        }
+        ,
+        {
+          "image_file": "bts291.webp"
+        }
+        ,
+        {
+          "image_file": "bts292.webp"
+        }
+        ,
+        {
+          "image_file": "bts293.webp"
+        }
+        ,
+        {
+          "image_file": "bts294.webp"
+        }
+        ,
+        {
+          "image_file": "bts295.webp"
+        },
+        {
+          "image_file": "bts296.webp"
+        }
+        ,
+        {
+          "image_file": "bts297.webp"
+        }
+        ,
+        {
+          "image_file": "bts298.webp"
+        }
+         ,
+        {
+          "image_file": "bts299.webp"
+        }
+         ,
+        {
+          "image_file": "bts300.webp"
+        }
+      ]
+
+    } ,
+    {
+      "id": "11",
+      "name": "BTS 11",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/BTS/assets/11/",
+      "image_cover": "main.png",
+      "stickers": [
+         {
+          "image_file": "bts301.webp"
+        },
+        {
+          "image_file": "bts302.webp"
+        },
+        {
+          "image_file": "bts303.webp"
+        }
+        ,
+        {
+          "image_file": "bts304.webp"
+        }
+        ,
+        {
+          "image_file": "bts305.webp"
+        }
+        ,
+        {
+          "image_file": "bts306.webp"
+        }
+        ,
+        {
+          "image_file": "bts307.webp"
+        }
+        ,
+        {
+          "image_file": "bts308.webp"
+        }
+        ,
+        {
+          "image_file": "bts309.webp"
+        }
+        ,
+        {
+          "image_file": "bts310.webp"
+        }
+        ,
+        {
+          "image_file": "bts311.webp"
+        }
+        ,
+        {
+          "image_file": "bts312.webp"
+        }
+        ,
+        {
+          "image_file": "bts313.webp"
+        }
+        ,
+        {
+          "image_file": "bts314.webp"
+        }
+        ,
+        {
+          "image_file": "bts315.webp"
+        }
+        ,
+        {
+          "image_file": "bts316.webp"
+        }
+        ,
+        {
+          "image_file": "bts317.webp"
+        }
+        ,
+        {
+          "image_file": "bts318.webp"
+        },
+        {
+          "image_file": "bts319.webp"
+        }
+        ,
+        {
+          "image_file": "bts320.webp"
+        }
+        ,
+        {
+          "image_file": "bts321.webp"
+        }
+        ,
+        {
+          "image_file": "bts322.webp"
+        }
+        ,
+        {
+          "image_file": "bts323.webp"
+        }
+        ,
+        {
+          "image_file": "bts324.webp"
+        }
+        ,
+        {
+          "image_file": "bts325.webp"
+        }
+         ,
+        {
+          "image_file": "bts326.webp"
+        }
+         ,
+        {
+          "image_file": "bts327.webp"
+        }
+         ,
+        {
+          "image_file": "bts328.webp"
+        }
+         ,
+        {
+          "image_file": "bts329.webp"
+        }
+         ,
+        {
+          "image_file": "bts330.webp"
+        }
+      ]
+
+    }
+	,
+    {
+      "id": "12",
+      "name": "BTS 12",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/BTS/assets/12/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "bts331.webp"
+        },
+        {
+          "image_file": "bts332.webp"
+        },
+        {
+          "image_file": "bts333.webp"
+        }
+        ,
+        {
+          "image_file": "bts334.webp"
+        }
+        ,
+        {
+          "image_file": "bts335.webp"
+        }
+        ,
+        {
+          "image_file": "bts336.webp"
+        }
+        ,
+        {
+          "image_file": "bts337.webp"
+        }
+        ,
+        {
+          "image_file": "bts338.webp"
+        }
+        ,
+        {
+          "image_file": "bts339.webp"
+        }
+        ,
+        {
+          "image_file": "bts340.webp"
+        }
+        ,
+        {
+          "image_file": "bts341.webp"
+        }
+        ,
+        {
+          "image_file": "bts342.webp"
+        }
+        ,
+        {
+          "image_file": "bts343.webp"
+        }
+        ,
+        {
+          "image_file": "bts344.webp"
+        }
+        ,
+        {
+          "image_file": "bts345.webp"
+        }
+		,
+        {
+          "image_file": "bts346.webp"
+        }
+      ]
+
+    } 
+	,
+    {
+      "id": "13",
+      "name": "BTS 13",
+      "folder_link":"https://kangmadu.xyz/blank/stickersaunder/BTS/assets/13/",
+      "image_cover": "main.png",
+      "stickers": [
+        {
+          "image_file": "bts361.webp"
+        },
+        {
+          "image_file": "bts362.webp"
+        },
+        {
+          "image_file": "bts363.webp"
+        }
+        ,
+        {
+          "image_file": "bts364.webp"
+        }
+        ,
+        {
+          "image_file": "bts365.webp"
+        }
+        ,
+        {
+          "image_file": "bts366.webp"
+        }
+        ,
+        {
+          "image_file": "bts367.webp"
+        }
+        ,
+        {
+          "image_file": "bts368.webp"
+        }
+        ,
+        {
+          "image_file": "bts369.webp"
+        }
+        ,
+        {
+          "image_file": "bts370.webp"
+        }
+        ,
+        {
+          "image_file": "bts371.webp"
+        }
+        ,
+        {
+          "image_file": "bts372.webp"
+        }
+        ,
+        {
+          "image_file": "bts373.webp"
+        }
+        ,
+        {
+          "image_file": "bts374.webp"
+        }
+        ,
+        {
+          "image_file": "bts375.webp"
+        }
+        ,
+        {
+          "image_file": "bts376.webp"
+        }
+        ,
+        {
+          "image_file": "bts377.webp"
+        }
+        ,
+        {
+          "image_file": "bts378.webp"
+        },
+        {
+          "image_file": "bts379.webp"
+        }
+        ,
+        {
+          "image_file": "bts380.webp"
+        }
+      ]
+
+    } 
+  ]
+}
